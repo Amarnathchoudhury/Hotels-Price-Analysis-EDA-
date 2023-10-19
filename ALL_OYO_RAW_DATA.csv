@@ -1,0 +1,363 @@
+,Hotel_Names,Address,City,Ratings,Votes,Prices,Features
+0,Flagship Malkajgiri,Malkajgiri,['Hyderabad'],['4.3'],['2269'],₹699, Parking facility  Reception  Free Wifi  
+1,OYO Flagship Hotel Lavish Stay,New Santoshnagar,['Hyderabad'],['4.3'],['23'],₹582, Free Wifi  Geyser  Power backup  
+2,OYO Flagship Hotel Shazeb International,Telangana,['Hyderabad'],['3.7'],['17'],₹699, Elevator  Free Wifi  Geyser  
+3,Collection O Hotel Rbs Kothapet-nagole Road,,['Hyderabad'],['5.0'],['7'],₹699, Elevator  Free Wifi  Geyser  
+4,OYO Flagship 80983G RBS Square Langer Houz,Hyderabad,"['Hyderabad', 'Hyderabad']",['3.9'],['98'],₹699, Free Wifi  Geyser  Power backup  
+5,SPOT ON Apsara Hotel,#5-4-467 opp Revenue board  Nampally Station Road,['Hyderabad'],['4.1'],['51'],₹719, Elevator  Free Wifi  Geyser  
+6,OYO Flagship 80484G Hotel Srinivasa Grand ,Abids South,['Hyderabad'],['3.4'],['32'],₹649, Elevator  Geyser  Power backup  
+7,Super OYO Flagship 81498 New Shiridi Crystal,Hyderabad,"['Hyderabad', 'Hyderabad']",['3.0'],['33'],₹699, Free Wifi  Geyser  Power backup  
+8,Collection O Hotel V Square ,"Near Nampally Metro Station, Abids South",['Hyderabad'],['2.8'],['111'],₹699, Elevator  Reception  Free Wifi  
+9,SPOT ON Mohit Gokul Lodge New Room's Near Snow World,Near To Secunderbad East Metro Rail Station,['Hyderabad'],['3.4'],['770'],₹469, Parking facility  Reception  Free Wifi  
+10,OYO Flagship Raga Stays Mee Seva Road,Chaitanyapuri,['Hyderabad'],['3.7'],['114'],₹710, Geyser  Power backup  AC  
+11,Capital O Hotel Samrat Palace Near Nampally Station,Abids,['Hyderabad'],['2.8'],['175'],₹627, Reception  Free Wifi  Caretaker  
+12,OYO Hotel Hyderabad Continental,"Near Tarakarama Theatre, Sultan Bazar",['Hyderabad'],['4.2'],['1466'],₹861, TV  King Sized Bed  Free Wifi  
+13,Flagship Royal Galaxy Lodge Near Charminar,,['Hyderabad'],['3.5'],['55'],₹699, AC  TV 
+14,Collection O High Way Grand Luxury Rooms ,Chandrapuri Colony,['Hyderabad'],['5.0'],['1'],₹1001, Elevator  Free Wifi  Geyser  
+15,Collection O Hotel Virat Grand,Vivekananda Colony,['Hyderabad'],['4.4'],['28'],₹1422, Elevator  Free Wifi  Geyser  
+16,OYO Flagship Hanuma Resdiceny,plot no 1-212 Malkajgiri Road . Geeta Nagar Hyderabad,['Hyderabad'],['3.2'],['14'],₹699, Elevator  Free Wifi  Geyser  
+17,Collection O Hotel Pnr International Mehdipatnam,Hyderabad,"['Hyderabad', 'Hyderabad']",['4.5'],['269'],₹1051, Elevator  Free Wifi  Geyser  
+18,Super OYO Hotel Holiday Rani Gunj Opp Punjab national bank,"M.G Road, Near Rani Gunj X road, Opp. Punjab National Bank, Secunderabad",['Hyderabad'],['4.3'],['1360'],₹1039, Reception  Free Wifi  Power backup  
+19,OYO Hanuma Residency Near victoria Memorial metro station,Behind OZONE Hospital,[],['4.5'],['1035'],₹898, Hair Dryer  Parking facility  Reception  
+20,Capital O The City Park Near Nampally Railway station,"Near The City Park, Chirag AlicLane",['Hyderabad'],['3.1'],['926'],₹963, Reception  Free Wifi  Power backup  
+21,SPOT ON Hotel Rk Residency Near MGBS Bus station,"Near Jaam Bagh, Hindustani Lane",['Hyderabad'],['3.4'],['391'],₹460, AC  TV  AC  
+22,"OYO Townhouse 710 Hotel Regal Near ISKON TEMPLE , ABIDS","Nampally station road, Adj Lane Metro Foot Wear, Opp. Iskcon Temple, Abids,  Hyderabad, Telangana, 500001",['Hyderabad'],['3.0'],['511'],₹1087, Parking facility  Elevator  Free Wifi  
+23,OYO Hotel Srujana Stay Inn Opp Public Gardens Nampally,Nampally,['Hyderabad'],['3.9'],['879'],₹1096, Elevator  Free Wifi  Geyser  
+24,Super OYO Collection O RCC Pristine,Ameerpet,['Hyderabad'],['4.6'],['1740'],₹1617, Parking facility  Reception  Free Wifi  
+25,park 9,Punjagutta,['Hyderabad'],['1.9'],['75'],₹699, Free Wifi  Geyser  Power backup  
+26,OYO Nav Bharath Residency Near Koti Center,"Near Central Gurudwara Saheb, Gowliguda",['Hyderabad'],['4.3'],['1010'],₹1035, Reception  Free Wifi  Power backup  
+27,OYO Hotel Aroma Classic Near Nampally Railway station,15-1-309 Feelkhana Near Acharaya Bhavan Baba Ramdav Mandir Bagum Bazar Hyderabad,"['Hyderabad', 'Hyderabad']",['4.0'],['607'],₹720, Reception  Public washroom  Free Wifi  
+28,Capital O Hotel Vaishnavi,"Near Csi Wesley Church, Paras Towers",['Hyderabad'],['4.3'],['931'],₹1450, Reception  Free Wifi  24/7 check-in  
+29,OYO Home Royal Stay,"Near Mynteramall, Ashoke Vihar 2 Colony",['Hyderabad'],['0.0'],['0'],₹576, Parking facility  Free Wifi  Power backup  
+30,Super OYO Collection O 15141 Townvilla Guest House,Hyderabad,"['Hyderabad', 'Hyderabad']",['4.8'],['1444'],₹1615, 24x7 Facility Manager  Free Wifi  Geyser  
+31,OYO Flagship Royal Stay Homes Near Asian Mall Attapur,"Attapur,Hyderabad",['Hyderabad'],['4.8'],['184'],₹910, AC  TV 
+32,OYO Flagship HRR Hotels Near Paradise circle,Secunderabad-500003,['Hyderabad'],['2.7'],['126'],₹861, Elevator  Geyser  Power backup  
+33,Super OYO Capital O 11079 Hotel Prestige,"Paradise ,Secunderabad",[],['4.6'],['3416'],₹1597, Parking facility  Elevator  Free Wifi  
+34,Super OYO Capital O Alpine Glow Pinnacle,"Near Veg Market, Bowenpally",['Hyderabad'],['4.5'],['2517'],₹1262, Reception  Power backup  Refrigerator  
+35,OYO Hotel Palak Residency Near Erragadda Metro Station,"Metro Pillar no: A947, 2nd Floor, Beside Erragadda Metro Station, Above Bajaj Showroom",['Hyderabad'],['3.9'],['1057'],₹1257, Elevator  Free Wifi  Geyser  
+36,Collection O Relax Inn,Jogani,['Hyderabad'],['3.5'],['43'],₹1271, Elevator  Free Wifi  Geyser  
+37,Capital O Alpine Glow Sunrise Near Hyderabad Public School,"Near RBI Quarters, Begumpet",['Hyderabad'],['4.4'],['834'],₹1158, Elevator  Free Wifi  Geyser  
+38,OYO Home Pramod Prime Homes Near More super market,Nagole,['Hyderabad'],['4.2'],['1255'],₹1228, Free Wifi  TV  AC 
+39,OYO Flagship 811357 Hotel R Square Inn,,['Hyderabad'],['4.0'],['100'],₹1071, Elevator  Free Wifi  Geyser  
+40,Super OYO Townhouse 265 RCC Elite,Opp To J S Babu Silks,['Hyderabad'],['4.6'],['2454'],₹1755, Reception  Caretaker  Power backup  
+41,OYO Flagship Ramoji Kothapet Near Miraj Cinemas - Shalini Shivani,Kothapet,['Hyderabad'],['3.9'],['802'],₹859, Private entrance  Reception  Free Wifi  
+42,OYO 16428 Hotel Vaishnavi Inn,Secunderabad,['Hyderabad'],['4.2'],['1651'],₹1334, Free Wifi  Power backup  Card payment  
+43,Flagship Relax Grand Near Snow World,Secunderabad Mandal,['Hyderabad'],['4.5'],['601'],₹1066, Reception  Free Wifi  Caretaker  
+44,Super OYO Townhouse OAK Hotel N7 Elite,Champapet,['Hyderabad'],['4.5'],['1322'],₹2663, Reception  24x7 Facility Manager  Free Wifi  
+45,OYO Townhouse 113 The Shubham Dilsukhnaga Near Miraj Cinemas - Shalini Shivani,Kothapet,['Hyderabad'],['3.3'],['675'],₹1280, Free Wifi  AC  TV 
+46,Collection O Hotel Sai Krupa,Kachiguda station road ,['Hyderabad'],['3.6'],['129'],₹1275, Free Wifi  Geyser  Power backup  
+47,OYO 40852 Hotel White Ridge,"Near Dilsukhnagar metro station, Krishna Nagar.",['Hyderabad'],['4.2'],['1378'],₹1149, Queen Sized Bed 
+48,OYO Townhouse 81794 BANJARAHILLS NEARÂ GVKÂ MALL,Masab Tank,['Hyderabad'],['3.7'],['715'],₹1322, Modern wardrobe  Modern wardrobe  AC  
+49,Super OYO Townhouse RCC Majestic 397 LB Nagar,Champapet,['Hyderabad'],['5.0'],['2902'],₹2331, Parking facility  Free Wifi  AC  
+50,OYO Flagship Hotel R Square Grand,Beside Darbar barnull,['Hyderabad'],['3.5'],['10'],₹1246, Elevator  Free Wifi  Geyser  
+51,OYO Flagship Hotel Elite Stay Near Habsiguda Metro Station,Secunderabad,['Hyderabad'],['4.0'],['608'],₹1154, Geyser  Power backup  AC  
+52,Super OYO Flagship Langar Houz Near Golconda Fort,Bapu Nagar,['Hyderabad'],['4.5'],['904'],₹1154, Free Wifi  Geyser  Power backup  
+53,OYO R Square Stay Near LB Nagar Metro,LB Nagar Metro Station,[],['3.6'],['222'],₹1019, Reception  Free Wifi  Caretaker  
+54,Super OYO Townhouse 164 ESI Hospital Near Hyderabad Central,Sanath Nagar,['Hyderabad'],['4.7'],['3377'],₹1881, Private entrance  Reception  Free Wifi  
+55,Townhouse White Ridge 112 Shivam Road,New Nallakunta,['Hyderabad'],['4.2'],['1412'],₹1841, Parking facility  Reception  Free Wifi  
+56,Super OYO Collection O Hotel Lotus Grand Near Secunderabad Railway Station,Secunderabad,['Hyderabad'],['4.0'],['2684'],₹1591, Parking facility  Free Wifi  Power backup  
+57,OYO Flagship Hotel Vaishnavi Palace,"#2-4-133 Beside KFC, Mahatma Gandhi Rd, Secunderabad, Telangana",['Hyderabad'],['4.1'],['872'],₹1244, Parking facility  Reception  Free Wifi  
+58,Collection O 5072 Padmini Inn,"Near S.D Road, Clocktower",['Hyderabad'],['5.0'],['2'],₹1356, AC  TV 
+59,SPOT ON Pnd Complex,R C I Rd,['Hyderabad'],['4.0'],['334'],₹859, Hair Dryer  Reception  Daily housekeeping  
+60,OYO Flagship Hotel Shazeb International,Telangana,['Hyderabad'],['3.7'],['17'],₹699, Elevator  Free Wifi  Geyser  
+61,SPOT ON Gokul Lodge Near Snow World,India Hyderabad Telanganaindia,"['Hyderabad', 'Hyderabad']",['2.8'],['44'],₹511, Reception  Geyser  Power backup  
+62,OYO Flagship 80983G RBS Square Langer Houz,Hyderabad,"['Hyderabad', 'Hyderabad']",['3.9'],['98'],₹699, Free Wifi  Geyser  Power backup  
+63,Super OYO Flagship 81498 New Shiridi Crystal,Hyderabad,"['Hyderabad', 'Hyderabad']",['3.0'],['33'],₹699, Free Wifi  Geyser  Power backup  
+64,OYO Flagship Sv Hotel,SUNCITY,['Hyderabad'],['4.5'],['31'],₹576, Elevator  Free Wifi  Geyser  
+65,Collection O Hotel V Square ,"Near Nampally Metro Station, Abids South",['Hyderabad'],['2.8'],['111'],₹699, Elevator  Reception  Free Wifi  
+66,OYO Flagship Hotel Prince Residency Luxury Rooms,near yashoda hospital  Raj Bhavan Road,['Hyderabad'],['3.0'],['22'],₹576, Elevator  Free Wifi  Geyser  
+67,OYO Flagship New Vasista Residency,RTC Colony,['Hyderabad'],['4.4'],['10'],₹744, Free Wifi  Geyser  Power backup  
+68,OYO Astar Hotel Inn Near Birla Mandir,Raj Bhavan Quarters Colony,['Hyderabad'],['2.1'],['5'],₹576, Free Wifi  Geyser  Power backup  
+69,SPOT ON Al Nizam Guest House Near Charminar,Nayapul,['Hyderabad'],['3.6'],['43'],₹511, Elevator  Free Wifi  Geyser  
+70,SPOT ON Mohit Gokul Lodge New Room's Near Snow World,Near To Secunderbad East Metro Rail Station,['Hyderabad'],['3.4'],['770'],₹469, Parking facility  Reception  Free Wifi  
+71,OYO Flagship New Sabharwal,Telangana 500001,['Hyderabad'],['3.2'],['50'],₹699, Elevator  Free Wifi  Geyser  
+72,OYO Imperial Guest House near Hyderabad Central,"Near Yashoda Hospital, Somajiguda",['Hyderabad'],['3.5'],['164'],₹581, Parking facility  Reception  Free Wifi  
+73,SPOT ON New Kaveri Lodge,HYDERABAD - 500074 TS RTC Colony,['Hyderabad'],['3.1'],['39'],₹511, Free Wifi  Geyser  Power backup  
+74,SPOT ON Hotel Sai Manikanta palace,Hyderabad,"['Hyderabad', 'Hyderabad']",['3.2'],['92'],₹635, Elevator  Free Wifi  Geyser  
+75,POP Padma Lodge Near Hyderabad Central,Panjagutta X Road,['Hyderabad'],['3.0'],['44'],₹511, Free Wifi  Geyser  Power backup  
+76,OYO Hotel Hyderabad Continental,"Near Tarakarama Theatre, Sultan Bazar",['Hyderabad'],['4.2'],['1466'],₹861, TV  King Sized Bed  Free Wifi  
+77,SPOT ON Pioneer Lodge By Wb Inn,Secunderabad,['Hyderabad'],['3.8'],['5'],₹744, Elevator  Free Wifi  Geyser  
+78,OYO Flagship New Shiridi Crystal Near Birla Mandir,Hyderabad Basheer Bhag,"['Hyderabad', 'Hyderabad']",['5.0'],['52'],₹576, Elevator  Geyser  Power backup  
+79,OYO Flagship Sri Residency Near Hyderabad Central,Ameerpet,['Hyderabad'],['4.0'],['799'],₹1117, Reception  Power backup  Security  
+80,Super OYO Townhouse 269 RCC Sunrise,"Near Begumpet lifestyle, Kundanbagh Colony",['Hyderabad'],['4.5'],['1402'],₹2209, Private entrance  Parking facility  Reception  
+81,Super OYO Townhouse 1033 Ameerpet,Ameerpet Mandal,['Hyderabad'],['4.6'],['2491'],₹2498, Reception  Power backup  Security  
+82,Hotel NEW SHYAM near Paradise circle,Secunderabad Mandal,['Hyderabad'],['3.2'],['194'],₹955, Elevator  Reception  Free Wifi  
+83,Townhouse 1250 Rcc Premier Sr Nagar,SR NAGAR,['Hyderabad'],['4.9'],['102'],₹1841, AC  TV 
+84,Townhouse 1065 Hotel S Continental Near Birla Mandir,Nampally Mandal,['Hyderabad'],['3.6'],['491'],₹1588, Parking facility  Reception  Caretaker  
+85,OYO Flagship The Metro International Hotel,Nayapul,['Hyderabad'],['4.0'],['62'],₹1432, AC  TV 
+86,OYO Flagship Hotel Ragas Inn,Rajendra Nagar,['Hyderabad'],['4.0'],['14'],₹1401, Elevator  Free Wifi  Geyser  
+87,Capital O Jubilee Banjara Suites Near City Center Mall,"Near American Hospital, Banjarahills",['Hyderabad'],['3.5'],['488'],₹1303, Free Wifi  AC  AC  
+88,Super OYO Flagship Sai Mansion,Maruthi Nagar,['Hyderabad'],['4.0'],['317'],₹984, Geyser  Power backup  AC  
+89,Collection O 45408 Hotel Ambassador,"Near Navodaya Hospital, SD Road",['Hyderabad'],['4.1'],['5'],₹1312, Reception  Free Wifi  Power backup  
+90,OYO Flagship 84238 Hotel Ragas Elite,Rangareddynull,['Hyderabad'],['3.3'],['36'],₹1071, Elevator  Reception  Free Wifi  
+91,OYO Sai Residency Near SR Nagar metro station,"Near Sr nagar metro station, Jawahar Nagar",['Hyderabad'],['3.1'],['336'],₹1334, Reception  Free Wifi  Geyser  
+92,Capital O Hotel Alekhya Residency,"Near Global Hospital, Saifabad",['Hyderabad'],['4.0'],['451'],₹1597, Free Wifi  Power backup  CCTV cameras  
+93,OYO Hotel Aadaab Near Gandhi Bhavan,"Near Nampally railway station, Mahesh Nagar",['Hyderabad'],['3.1'],['62'],₹867, Reception  Free Wifi  24/7 check-in  
+94,OYO Vasundhara Guest House Near Tankbund,Near Bombay Hotel,['Hyderabad'],['3.1'],['571'],₹953, Reception  Free Wifi  Power backup  
+95,SPOT ON Hotel Sai Ashirwad Residency,punjagutta,['Hyderabad'],[],[],₹1071, Free Wifi  Geyser  Power backup  
+96,OYO Flagship New Hotel Aroma Classic,Hyderabad 500001,"['Hyderabad', 'Hyderabad']",['3.0'],['4'],₹1062, Elevator  Free Wifi  Geyser  
+97,OYO Flagship Hotel R Square,Dilsukhnagarnull,['Hyderabad'],['4.0'],['214'],₹1257, Free Wifi  Geyser  Power backup  
+98,OYO Hotel Shannu Residency,"Near Apollo Pharmacy, Secunderabad",['Hyderabad'],['4.1'],['892'],₹1074, Free Wifi  Geyser  TV 
+99,Townhouse 1188 Xanthe Hotels,"Ward 98, Sai Baba Temple Road, Sr Nagar, Ward 98 Ameerpet, Greater Hyderabad Municipal Corporation Central Zone",['Hyderabad'],['3.4'],['136'],₹1484, Elevator  Free Wifi  Geyser  
+100,Home Shiva Shakthi Inn Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,J P Nagar,['Bangalore'],['4.3'],['854'],₹581, Private entrance  Parking facility  Elevator  
+101,SPOT ON Srinivasa Boarding And Lodging Near Vijayanagar Metro Station,"Near N R Colony, Sajjepalya",['Bangalore'],['3.2'],['402'],₹399, TV 
+102,Flagship S M Residency Near Mysore Road Metro Station,Nagarbhavi,['Bangalore'],['3.4'],['323'],₹572, Free Wifi  Geyser  Power backup  
+103,OYO Flagship 814835 MANYATA INN SERVICE APARTMENT,Karnataka ,['Bangalore'],['3.9'],['34'],₹576, Free Wifi  Geyser  Power backup  
+104,SPOT ON Balaji Residency near Yeshwantupur Railway Station,L N Colony,['Bangalore'],['3.4'],['314'],₹460, AC  TV  Queen Sized Bed  
+105,Collection O 81138 Emara Galaxy Executive Rooms,Karnataka,['Bangalore'],['4.1'],['126'],₹822, Elevator  Reception  Free Wifi  
+106,Super OYO Townhouse 1225 Chethana Inn,560013,['Bangalore'],['4.2'],['1292'],₹1112, Free Wifi  TV  AC 
+107,OYO Hotel Golden Inn Near Cubbon Park,"Centrally Located, Near HKP Road, Shivaji Nagar",['Bangalore'],['3.5'],['601'],₹1194, Parking facility  Elevator  Free Wifi  
+108,Royal Bliss International,"Near Brand Factory, Bilekahalli",['Bangalore'],['3.6'],['473'],₹807, Free Wifi  Geyser  Power backup  
+109,SPOT ON Vasavi Residency,Bangalor,['Bangalore'],['3.5'],['47'],₹811, Free Wifi  Geyser  Power backup  
+110,OYO Flagship Sunder Nivas,Yeshwantpur,['Bangalore'],['3.9'],['143'],₹822, Free Wifi  Geyser  Power backup  
+111,SPOT ON Sri Nataraja Lodge ,Ramachandrapuram Main road near Sujata theatre opp lulu mall,['Bangalore'],['3.1'],['6'],₹599, Elevator  Free Wifi  Geyser  
+112,SPOT ON Hotel Shreyas,Prem Nagar,['Bangalore'],['4.6'],['7'],₹599, Parking facility  Reception  Free Wifi  
+113,Collection O Hotel Tiara Near Christ university,Tavarekere Main Rd,['Bangalore'],['3.7'],['663'],₹1222, Parking facility  Elevator  Free Wifi  
+114,OYO Hotel Townhall,"Near Dhanlakshmi Bank, JC Road",['Bangalore'],['4.0'],['1079'],₹956, Free Wifi  Geyser  Power backup  
+115,SPOT ON RR Complex,Nandini Layout,['Bangalore'],['3.3'],['57'],₹511, Parking facility  Reception  Free Wifi  
+116,Collection O 88646 SRI SAPTHAGIRI,Bangalore Urban,"['Bangalore', 'Bangalore']",['3.3'],['76'],₹911, Elevator  Free Wifi  Geyser  
+117,Collection O G Silver Polonest,Bengaluru,['Bangalore'],['5.0'],['10'],₹1510, Elevator  Free Wifi  Geyser  
+118,Collection O Royal Elevar,Dasarahalli,['Bangalore'],['4.3'],['779'],₹986, Elevator  Free Wifi  Geyser  
+119,Flagship Sree Nandanam Residency,Bengaluru,['Bangalore'],['3.3'],['43'],₹576, Reception  Geyser  Caretaker  
+120,OYO Exotic Stay Bg Road,Bangalore Urban,"['Bangalore', 'Bangalore']",['3.3'],['251'],₹699, Elevator  Free Wifi  Geyser  
+121,Capital O Green Residency,Near Summanahalli Bus Stop,['Bangalore'],['3.4'],['208'],₹814, Reception  Free Wifi  Power backup  
+122,OYO Flagship Hotel Sunil Residency,"West Of Chord Road, Shivanagar",['Bangalore'],['4.3'],['12'],₹1137, Parking facility  Elevator  Free Wifi  
+123,SPOT ON Yatra Inn Near Lalbagh Botanical Garden,Lalbagh,['Bangalore'],['5.0'],['2672'],₹1044, TV  Free Wifi  Geyser  
+124,OYO Nar Comforts Near Majestic & near KSR Railway station,"NAR Comforts,13, G.K temple street, opp. Vijayalaxmi theater, Chickpet",['Bangalore'],['3.9'],['1296'],₹924, Private entrance  Reception  Free Wifi  
+125,OYO Hotel Subha Residency Near Cubbon Park,Majestic,['Bangalore'],['4.4'],['1502'],₹1177, Free Wifi  Power backup  King Sized Bed  
+126,Super OYO Townhouse 264 - Q Rooms BTM Layout Near Gopalan Innovation Mall,"Near BTM Water Tank, Mico Layout",['Bangalore'],['4.8'],['1361'],₹1869, Reception  Free Wifi  Power backup  
+127,Super OYO Townhouse 1226 Chethana Clove Hebbal,,['Bangalore'],['4.3'],['1398'],₹1394, Reception  Free Wifi  Power backup  
+128,OYO Flagship 28067 Shree Stays ,"Near RNS motors, Bannerghatta Road",['Bangalore'],['3.4'],['111'],₹896, Parking facility  Ticket tour assistance  Reception  
+129,OYO GN Collection O Near Rajajinagar Industrial Estate,"Centrally Located, Near A D Halli Park, Housing Board",['Bangalore'],['4.1'],['646'],₹994, Reception  Free Wifi  Caretaker  
+130,Collection O 85404 Valleyton Park,"Near Manyata Tech Park,HBR Layout,Outer Ring Road,Bangalore",['Bangalore'],['4.1'],['321'],₹1257, Doctor on call  Parking facility  Reception  
+131,OYO Flagship 79381 DM Residency Near Goraguntepalya Metro Station,Rajarajeshwari Nagar Zone,['Bangalore'],['3.3'],['164'],₹870, Hair Dryer  AC  TV  
+132,Collection O 3664 Hotel Shivaals Residency,Rajajinagar,['Bangalore'],['3.8'],['93'],₹1237, Free Wifi  Geyser  Power backup  
+133,OYO Shree Mookambika Guest House Near Sri Someshwara Swami Temple,Kormangla,['Bangalore'],['4.4'],['619'],₹1093, Free Wifi  Geyser  Power backup  
+134,SPOT ON Hotel Sri Thirumala Lodge,Opp BHEL,['Bangalore'],['4.8'],['636'],₹857, Free Wifi  Power backup  Security  
+135,Rajmahal Comforts Near Hare Krishna Hill,"Near Maha Bazar, New Bel Road",['Bangalore'],['4.0'],['352'],₹849, Reception  Free Wifi  Power backup  
+136,Townhouse OAK SRK White Inn Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,Koramangala,['Bangalore'],['4.0'],['1493'],₹1478, Elevator  Free Wifi  Geyser  
+137,OYO Flagship Olivia Comforts Near Nexus Mall Koramangala,"Near Eat Street, Kormangala",['Bangalore'],['4.1'],['1055'],₹1222, Parking facility  Elevator  Free Wifi  
+138,OYO Flagship Hotel Royal Galaxy,Bellandur,['Bangalore'],['3.3'],['59'],₹981, Reception  Free Wifi  Power backup  
+139,Flagship White Fort Near Lalbagh Botanical Garden,"Dispensary Rd, Kalasipalya,Bangalore",['Bangalore'],['4.3'],['763'],₹1038, Reception  Free Wifi  Power backup  
+140,Collection O Sathyajyothi Comforts Near Deepanjali Nagar Metro Station,Girinagar,['Bangalore'],['4.2'],['900'],₹1120, AC  TV 
+141,SPOT ON 36102 Akshara Regency,"Near ADB Building, Gokula 1st Stage",['Bangalore'],['5.0'],['29'],₹822, Free Wifi  AC  TV 
+142,OYO Flagship Hotel Grand Arabian,Yeswanthpur,['Bangalore'],['4.7'],['2'],₹1153, Reception  Free Wifi  Caretaker  
+143,Townhouse 180 Jayanagar,"Near Sagar Hospital, Tilak Nagar",['Bangalore'],['4.9'],['3273'],₹1875, Elevator  Free Wifi  Geyser  
+144,Super OYO Townhouse 490 Indiranagar Extn,Bangalore,"['Bangalore', 'Bangalore']",['4.2'],['1614'],₹1625, Private entrance  Doctor on call  Reception  
+145,Super OYO Flagship Hotel Ayodhya,Near Bangalore University,"['Bangalore', 'Bangalore']",['4.4'],['28'],₹915, Elevator  Free Wifi  Geyser  
+146,Collection O Naidu Palace Near Iskcon Temple Bangalore,"Near Dhobi Ghat junction, Rajajinagar",['Bangalore'],['4.2'],['948'],₹1476, Private entrance  Elevator  Free Wifi  
+147,Super OYO Collection O Hotel Hemadri Residency,Opp Saraswati Kalyana Mantapa,['Bangalore'],['4.0'],['147'],₹1144, Reception  Free Wifi  Power backup  
+148,OYO Home Leva Homes Near Baiyappanahalli Metro Station,Mahadevapura Zone,['Bangalore'],['3.7'],['939'],₹1262, Reception  Free Wifi  Geyser  
+149,OYO Hotel Blue Inn,"Near Bilal masjid, Gurappanapalya",['Bangalore'],['3.5'],['1112'],₹1246, Reception  Free Wifi  Power backup  
+150,SPOT ON 76191 Sahara Lodge,Yeshwanthapura,['Bangalore'],['4.4'],['390'],₹804, Elevator  Free Wifi  Geyser  
+151,OYO Royal Inn Near Iskcon Temple Bangalore,"Near 14th Main Road, Rajaji Nagar",['Bangalore'],['3.5'],['184'],₹909, Reception  Free Wifi  Power backup  
+152,Collection O Tierra Woods,Bangalore ,"['Bangalore', 'Bangalore']",['4.0'],['161'],₹1197, TV  Reception  Wakeup service  
+153,Townhouse Chic 364 Richmond Road Near Cubbon Park,"Near Baldwin Women College, Richmond Town, Bengaluru",[],['4.3'],['1254'],₹1860, Parking facility  Reception  Free Wifi  
+154,SPOT ON A Class Suites Near Hare Krishna Hill,Bangalore Urban,"['Bangalore', 'Bangalore']",['5.0'],['882'],₹984, Doctor on call  Private entrance  Parking facility  
+155,OYO The Royal International Hotel,"Near Robert Bosch Company, Mangammanapalya",['Bangalore'],['3.4'],['1224'],₹1038, Living Room  Reception  Cot  
+156,Super OYO Capital O Blooms Stay Inn Near Snow City,Bangalore Urban,"['Bangalore', 'Bangalore']",['4.5'],['458'],₹1425, Free Wifi  Geyser  Power backup  
+157,OYO 6825 New Crescent Citadel,"Near Kemp Fort Mall, Murugeshpalya",['Bangalore'],['3.5'],['23'],₹1422, Hair Dryer  Reception  Free Wifi  
+158,Collection O Sunshine Studio Rooms,Thanisandra,['Bangalore'],['4.0'],['147'],₹944, Parking facility  Reception  Free Wifi  
+159,OYO Sree Lakshmi Residency Near Hare Krishna Hill,"Near Bata Show Room, Yeshwanthpur",['Bangalore'],['3.2'],['257'],₹823, Free Wifi  Geyser  Power backup  
+160,OYO Nra Residency Near Rajarajeshwari Nagar Metro Station,Rajarajeshwari Nagar,['Bangalore'],['3.4'],['322'],₹936, AC  TV 
+161,SPOT ON Hotel Sri Thirumala Paradise,Sevashrama,['Bangalore'],['3.6'],['272'],₹942, Elevator  Free Wifi  Geyser  
+162,Collection O Fortune Park,Gokula Extension,['Bangalore'],['4.8'],['20'],₹1226, Reception  Power backup  24/7 check-in  
+163,Collection O New Royal Serenity Inn,India ,['Bangalore'],['3.5'],['18'],₹1286, Elevator  Free Wifi  Geyser  
+164,Capital O Gn Suites Near OM SHAKTHI TEMPLE,"Near Sub Registrar Office, Banaswadi",['Bangalore'],['4.0'],['631'],₹1361, Reception  Free Wifi  Power backup  
+165,Super OYO Flagship Sai Palace,Vivekananda Nagar,['Bangalore'],['4.1'],['89'],₹1071, Free Wifi  Geyser  Power backup  
+166,Capital O Victorian Comforts Near Sri Someshwara Swami Temple,"Near Adams Creation, Victoria Layout",['Bangalore'],['3.8'],['1247'],₹1443, Doctor on call  Reception  Ticket tour assistance  
+167,OYO Home Kkr New Town Near Sri Amruth Chithra Mandira,Kalyan Nagar,['Bangalore'],['3.2'],['186'],₹912, Elevator  Free Wifi  Geyser  
+168,OYO Royal Grand Residency Near Lalbagh Botanical Garden,Bangalore Karnataka,"['Bangalore', 'Bangalore']",['3.6'],['419'],₹1053, Doctor on call  Parking facility  Reception  
+169,OYO Flagship IRA Comforts,Banashankari 1st Stage,['Bangalore'],['4.5'],['13'],₹1050, Free Wifi  Geyser  Power backup  
+170,OYO Townhouse 238 Tierra Woods Near Halasuru Metro Station,Halasuru,['Bangalore'],['4.3'],['1224'],₹2069, Hair Dryer  Parking facility  Reception  
+171,OYO Flagship Vsv Avenue Hennur Near Sri Amruth Chithra Mandira,(landmark Krishna Medical Store) Oposite Krishna Leela Grand Hotel,['Bangalore'],['4.2'],['481'],₹1262, Electric Kettle  Free Wifi  AC  
+172,Super OYO Capital O Choice Regal Suites Near Ragigudda Sri Prasanna Anjanayeswamy Temple,"Centrally Located, Near Sagar Hospital, Hombegowda Nagar",['Bangalore'],['4.2'],['983'],₹1667, Reception  Free Wifi  Power backup  
+173,Townhouse 385 Navya International Ramamurthy Nagar Near BBMP Office,Near Rammamurthynagar Police Station,['Bangalore'],['4.1'],['2480'],₹1588, Elevator  Free Wifi  Geyser  
+174,OYO Varcity Emerald Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,"Near KEB Colony, BTM Layout 1",['Bangalore'],['3.6'],['1621'],₹1165, Doctor on call  Parking facility  Reception  
+175,OYO Flagship Manjushree Boarding & Lodging,Basaveshwar Nagar,['Bangalore'],['3.8'],['8'],₹895, Hair Dryer  Reception  Free Wifi  
+176,SPOT ON Janapriya Lodge Near Hare Krishna Hill,Bangalore Urban,"['Bangalore', 'Bangalore']",['3.6'],['299'],₹793, Free Wifi  Power backup  Security  
+177,Santa Maria Near Indiranagar Metro Station,Jeevan Bhima Nagar,['Bangalore'],['4.3'],['750'],₹1136, Parking facility  Reception  Free Wifi  
+178,Townhouse OAK Hotel Prime,"Near Karnataka Bank, Babusapalya Main Road",['Bangalore'],['4.5'],['765'],₹1664, Parking facility  Free Wifi  Power backup  
+179,Super OYO Capital O High end Withinn Hotel Near Hare Krishna Hill,"Near NIAS, Mathikere Extension",['Bangalore'],['4.6'],['700'],₹1600, AC  TV 
+180,Super OYO Collection O Compact Green View Near Nexus Mall Koramangala,"Near Ejipura Bus stand, Ashwini Layout",['Bangalore'],['4.9'],['1581'],₹1806, Free Wifi  Geyser  Power backup  
+181,Townhouse 149 Siri Residency,Bhuvaneswari Nagar,['Bangalore'],['4.4'],['965'],₹1631, Elevator  Free Wifi  Geyser  
+182,SPOT ON Happy Stay Near Sri Amruth Chithra Mandira,Rt Nagar Post,['Bangalore'],['4.0'],['307'],₹1134, Free Wifi  Power backup  Card payment  
+183,SPOT ON Shree Nest(studio Rooms),Bangalore -560072,"['Bangalore', 'Bangalore']",['0.0'],['0'],₹1334, Parking facility  Elevator  Free Wifi  
+184,Capital O 70991 Prime Square ,"Centrally Located, Near Kalyan Nagar Bus Stand, 1st stage",['Bangalore'],['3.8'],['350'],₹1107, AC  Attached Washroom  TV  
+185,Collection O Hotel 29 Church's Inn Near Cubbon Park,Bangalore City Center,"['Bangalore', 'Bangalore']",['5.0'],['314'],₹2077, TV 
+186,Capital O Elite Stay Jp Nagar Near SRI SATHYA GANAPATHI SHIRDI SAIBABA Temple,6th Phase,['Bangalore'],['3.6'],['1218'],₹1177, Elevator  Geyser  Power backup  
+187,SPOT ON S3 Comforts Near Sri Amruth Chithra Mandira,Diagonally Opp Sri Krishna Nandagokula Hotel,['Bangalore'],['3.2'],['181'],₹898, TV  Reception  Caretaker  
+188,Flagship Pride Inn,14 Cross Hosur Main Road,['Bangalore'],['3.3'],['479'],₹1195, Elevator  Free Wifi  Geyser  
+189,SPOT ON Krishnaa Comforts Near Cubbon Park,Shivaji Nagar,['Bangalore'],['3.3'],['292'],₹1102, Free Wifi  Geyser  Power backup  
+190,OYO Varcity Comforts Near Ragigudda Sri Prasanna Anjaneyaswamy Temple,B T M Layout,['Bangalore'],['4.0'],['1351'],₹1524, Reception  Free Wifi  Power backup  
+191,OYO Flagship Century Residency,"Near Sri Balaji medicals, Zuzuvadi",['Bangalore'],['2.8'],['39'],₹1274, Parking facility  Reception  Free Wifi  
+192,Flagship Hotel Ss Grand,Bangalore Southnull,"['Bangalore', 'Bangalore']",['4.3'],['44'],₹988, Parking facility  Reception  Free Wifi  
+193,Super OYO Townhouse 273 Hosur Main Road Bommanahalli Near Gopalan Innovation Mall,"Near krishna Theature Bommanahalli, Hosur main road",['Bangalore'],['4.8'],['1917'],₹2524, Doctor on call  Parking facility  Reception  
+194,Capital O Royal Manyata,Gate Number 4,['Bangalore'],['4.0'],['500'],₹1202, Parking facility  Elevator  Free Wifi  
+195,Capital O Safari Rooms Near Snow City,India Bangalore Karnatakaindia,"['Bangalore', 'Bangalore']",['3.4'],['189'],₹1202,
+196,OYO 8501 ABHIMAANI COMFORTS,Kanakpura main road metro pillar number 45 nearby Banashankari metro station JP Nagar,[],['3.5'],['227'],₹1360, Elevator  Free Wifi  Geyser  
+197,OYO Flagship V R Residency Near Sri Amruth Chithra Mandira,"Centrally Located, Near 4th block, HBR Layout",['Bangalore'],['3.6'],['113'],₹1216, Parking facility  Reception  Power backup  
+198,Flagship Sri Hari Premium Comforts Near Sandhya Digital 4K Theatre,"Near KLM Finvest, HSR layout sector7",['Bangalore'],['3.4'],['260'],₹1360,
+199,OYO Flagship Raj Residency,,['Bangalore'],['3.0'],['4'],₹1071, Free Wifi  Geyser  Power backup  
+200,Flagship Dream Inn Near Akshardham,J 8  Near Mithila Appartment Chandra Vihar Patparganj Delhi-110091null,"['Delhi', 'Delhi']",['3.5'],['211'],₹649, Free Wifi  Geyser  Power backup  
+201,Townhouse 868 Dream Connect Near TDI Mall,Wz-3 Opp Pillor No 322 Moti Nagar Delhi,"['Delhi', 'Delhi']",['4.2'],['2828'],₹1248, Parking facility  Reception  Free Wifi  
+202,OYO Flagship Hotel SS Palace,Block A,['Delhi'],['3.9'],['284'],₹904, AC  TV 
+203,Super OYO Townhouse 381 Dilshad Garden Near Dilshad Garden Metro Station,Pocket E,['Delhi'],['4.3'],['2219'],₹1482, AC  TV 
+204,OYO Hotel J Joy,"MAIN FAIZ ROAD (Above SBI BANK), KAROL BAGH",[],['3.6'],['1107'],₹986, Elevator  Reception  Free Wifi  
+205,OYO Hotel Sehej Continental,Db Gupta Road Karolbagh,['Delhi'],['3.9'],['329'],₹1237, TV 
+206,OYO Hotel Landmark Inn,Near Karol Bagh Metro Station,[],['4.6'],['3604'],₹1477, Hair Dryer  Free Wifi  Power backup  
+207,Flagship Kashish Residency,single storey,['Delhi'],['3.5'],['286'],₹1051, AC  TV 
+208,OYO Townhouse 1130 262 Kailash Enclave Near M2K Cinemas Rohini,Harsh Vihar,['Delhi'],['3.5'],['987'],₹1476, Elevator  Free Wifi  Geyser  
+209,OYO Flagship Hotel Happy Inn,Near Singla Sweets,['Delhi'],['3.6'],['71'],₹949, Reception  Free Wifi  Caretaker  
+210,OYO Flagship 81042 Step Inn International,Delhinull,"['Delhi', 'Delhi']",['3.0'],['78'],₹1051, Free Wifi  Geyser  Power backup  
+211,Townhouse 610 Derawal Nagar,"Near Vinayak Hoptiat, Gujranwala Town",['Delhi'],['5.0'],['2753'],₹2166, Private entrance  Hair Dryer  Reception  
+212,Townhouse 057 Gujranwala Town Near Model Town Metro Station,Tehsil,['Delhi'],['3.6'],['1612'],₹1718, Private entrance  Reception  Free Wifi  
+213,OYO Flagship 84596 Hotel North Campus,Civil Lines Tehsilnull,['Delhi'],['3.5'],['109'],₹1232, Reception  Free Wifi  Caretaker  
+214,SPOT ON Hotel Silver Palace Dx,"Near RK ASHRAM METRO STATION, Pahar Ganj",['Delhi'],['4.5'],['2445'],₹1486, Reception  Queen Sized Bed  TV  
+215,OYO Hotel Crown Continental Near Sarai Rohilla Railway Station,11005,['Delhi'],['3.7'],['200'],₹1361, AC  TV 
+216,OYO Hotel Samrat ,Seelampur,['Delhi'],['4.2'],['13'],₹1476, Free Wifi  Geyser  Power backup  
+217,OYO Flagship Hotel Raas Near Near Laxmi nagar metro station,G-79,[],['4.0'],['363'],₹1353, Free Wifi  Geyser  Power backup  
+218,Townhouse 511 Prakash continental Near Netaji Subhash Place Metro Station,Netaji Subash Palace,['Delhi'],['4.2'],['415'],₹1728, Ticket tour assistance  Reception  Free Wifi  
+219,OYO Flagship Hotel Iconic Residency,Param Puri,['Delhi'],['3.7'],['37'],₹1476, Free Wifi  Geyser  Power backup  
+220,OYO Dream Palace Near Laxmi Nagar Metro,Laxmi Nagar,['Delhi'],['3.5'],['290'],₹1115, AC  AC  TV  
+221,OYO Flagship Hotel Dream Palace Near V3S Mall,110051,['Delhi'],['3.7'],['164'],₹1232, Reception  Free Wifi  Caretaker  
+222,Collection O Shalimar Bagh Near Haiderpur Metro Station,Shalimar Village,['Delhi'],['3.4'],['1743'],₹1299, Free Wifi  AC  TV 
+223,Flagship Hotel City Inn Dx,"Near RK ASHRAM, Basant Road Railway Colony",['Delhi'],['3.4'],['610'],₹1287, Reception  Free Wifi  Bedside Table / Desk  
+224,OYO 74753 Sushma Ssadan,Sawan Park Ashok Vihar Phase 3 Model Town Tehsil,['Delhi'],['3.5'],['429'],₹1225, AC  TV 
+225, Flagship Padam Residency Near Laxmi Nagar metro ,Shakarpur Khas Near Inferno Gym Block U,['Delhi'],['3.5'],['364'],₹1112, Geyser  Power backup  AC  
+226,Flagship Sr Residency Near CCD,Block B,['Delhi'],['3.5'],['317'],₹1232, Geyser  Power backup  AC  
+227,Collection O Iconic Residency Near Gurudwara Shri Bangla Sahib,Rajendra Nagarnullnull,['Delhi'],['3.5'],['374'],₹1420, Reception  Free Wifi  Caretaker  
+228,OYO 74596 Dream Town Near V3S Mall,Shahdara,['Delhi'],['4.0'],['451'],₹1383, AC  TV  Queen Sized Bed 
+229,OYO Pari Residency,New Delhi,"['Delhi', 'Delhi']",['3.5'],['86'],₹1161, AC  AC  TV  
+230,OYO Hotel City Castle,"Near Karol Bagh, Nai Walan",['Delhi'],['4.0'],['1358'],₹1597, Elevator  Free Wifi  Geyser  
+231,OYO Flagship 815278 Dream Stay,New delhi,['Delhi'],['3.6'],['66'],₹1232, Elevator  Free Wifi  Geyser  
+232,Super OYO Collection O Model Town Metro View Near Model Town Metro Station,Near Model Town Metro Station,['Delhi'],['4.1'],['894'],₹1723, AC  TV 
+233,OYO Flagship Decent Guest House ,Khazoori Khas Behind Bikaner sweets,['Delhi'],['5.0'],['5'],₹1233, Free Wifi  Geyser  Power backup  
+234,OYO Hotel New Tech India,"Near Jhandewalan, Nai Walan",['Delhi'],['3.8'],['369'],₹1238, AC  TV  King Sized Bed  
+235,OYO Flagship Hotel Diva,main road Vishwas Nagar  near karkardooma court and metro station,['Delhi'],['4.6'],['22'],₹1476, Free Wifi  Geyser  Power backup  
+236,OYO Flagship Hotel La Bella,near Haiderpur metro station,['Delhi'],['3.0'],['2'],₹1110, Elevator  Free Wifi  Geyser  
+237,OYO Flagship Hotel DP Palace ,Delhinull,"['Delhi', 'Delhi']",['3.0'],['43'],₹1353, Free Wifi  Geyser  Power backup  
+238,OYO Flagship Kashvi Palace Near Usmaanpur 1st pusta,1 St Pusta Near Walia Public Shool Usmaanpur,['Delhi'],['3.5'],['231'],₹1232, Geyser  Power backup  AC  
+239,OYO Kl Khari Inn,"Near Ashok Park Main, Rampura Marg",['Delhi'],['3.9'],['536'],₹1247, Parking facility  Reception  CCTV cameras  
+240,OYO Townhouse 118 Gagan Vihar Near V3S Mall,"Near RG Stone hospital , Hargobind Enclave",['Delhi'],['3.2'],['1600'],₹2270, Hair Dryer  Free Wifi  CCTV cameras  
+241,OYO Flagship Hotel Luxury Paradise,Plot No.560 Mansarovar Park Main G.T Road Shahdara Delhi-32,"['Delhi', 'Delhi']",['4.7'],['5'],₹1232, Free Wifi  Geyser  Power backup  
+242,OYO Flagship The Knight Stay,Rohininull,['Delhi'],['5.0'],['57'],₹1476, Free Wifi  Geyser  Power backup  
+243,OYO The Olive Inn,"Near Karol Bagh, Channa Market",['Delhi'],['4.3'],['651'],₹1595, Elevator  Free Wifi  Geyser  
+244,OYO Flagship Hotel S Inn,Paharganj New Delhi,"['Delhi', 'Delhi']",['4.2'],['319'],₹1596, Elevator  Free Wifi  Geyser  
+245,OYO Flagship Hotel Deva Inn,Shahdara,['Delhi'],['5.0'],['8'],₹1233, Free Wifi  Geyser  Power backup  
+246,OYO Flagship Hotel CG International,Near New Delhi Railway Station,"['Delhi', 'Delhi']",['2.5'],['13'],₹1354, Elevator  Reception  Free Wifi  
+247,OYO Hotel J P Inn Near Patel Nagar Metro Station,"Near Patel Nagar Metro, Block 1",['Delhi'],['4.1'],['762'],₹1962, Reception  Free Wifi  Power backup  
+248,OYO Hotel Grand Peepal,"Near Karol Bagh metro, WEA",['Delhi'],['3.9'],['480'],₹1713, Elevator  Free Wifi  Geyser  
+249,OYO Flagship Hotel Happiness Inn Near Tdi Mall,Karampura,['Delhi'],['3.8'],['258'],₹1476, AC  TV 
+250,Hotel Green Palace Near jagatpuri,H.no.-a3 Block A Jagat Puri Red Light Near Sbi Bank Jagat Puri East Delhi,"['Delhi', 'Delhi']",['3.8'],['296'],₹1491, Private entrance  Free Wifi  CCTV cameras  
+251,OYO Hotel Blue Stone,"Near NSP Metro , Shingaipur",['Delhi'],['3.5'],['16'],₹1354, Parking facility  Free Wifi  Geyser  
+252,OYO Flagship 12739 Mahesh Inn,Near New Delhi Railway Station,['Delhi'],['3.3'],['54'],₹1476, Elevator  Free Wifi  Geyser  
+253,OYO Flagship  Hotel Neha Inn Near Jama Masjid,Paharganj (near Delhi Railway Station),"['Delhi', 'Delhi']",['2.4'],['35'],₹1190, Elevator  Reception  Free Wifi  
+254,OYO Flagship Metro City Guest House,India ,['Delhi'],['2.4'],['28'],₹1228, Reception  Free Wifi  Geyser  
+255,OYO Flagship Hotel Family Deluxe,Raj block G T Road Naveen Sahadara Delhi,"['Delhi', 'Delhi']",['4.5'],['43'],₹1767, Elevator  Free Wifi  Geyser  
+256,OYO Townhouse 286 Near Kohat Enclave Metro Station ,Near Pitampura Metro Station,['Delhi'],['3.5'],['200'],₹2199, Parking facility  Elevator  Free Wifi  
+257,OYO Flagship King Guest House,Shahdara,['Delhi'],[],[],₹1233, Elevator  Free Wifi  Geyser  
+258,OYO Flagship Hotel Nasa Inn,Arya Nagar,['Delhi'],['3.7'],['3'],₹1110, Free Wifi  Geyser  Power backup  
+259,Collection O Metro View Ashok Vihar Near Shalimar Bagh Metro Station,Pocket C 1,['Delhi'],['3.8'],['73'],₹1713, Free Wifi  Geyser  Power backup  
+260,OYO Flagship 79578 I Stay,"Babli Chowk, Near Tooti Chowk, Mail Bazar, Paharganj",[],['3.4'],['17'],₹1232, Doctor on call  Ticket tour assistance  Reception  
+261,OYO Flagship Hotel Black Inn,jockey showroom building opposite red tape Sant Nagar burari,['Delhi'],['4.7'],['7'],₹1597, Free Wifi  Geyser  Power backup  
+262,OYO Flagship Hotel Payal Near Gurudwara Shri Bangla Sahib,"Near R K Ashram Metro Station, Paharganj",['Delhi'],['2.3'],['24'],₹1232, AC  TV 
+263,OYO Townhouse VR Residency,Shakurpur,['Delhi'],['3.5'],['42'],₹1713, Elevator  Free Wifi  Geyser  
+264,OYO Flagship 811088 Hotel King Palace,Karol Bagh,['Delhi'],['5.0'],['11'],₹1961, Free Wifi  Geyser  Power backup  
+265,OYO Flagship 85202 International Guest House,New Usmanpur,['Delhi'],['3.5'],['175'],₹1491, AC  TV 
+266,OYO Flagship Hotel Gush International,"626, Main Bazar, Chowk Bawli , 6- Tooti, Paharganj",[],['2.7'],['62'],₹1469, Reception  Free Wifi  Power backup  
+267,OYO Flagship The Arrow ,G - 70  G-block near Vijay chowk Laxmi Nagar,['Delhi'],['0.0'],['0'],₹1353, Free Wifi  Geyser  Power backup  
+268,OYO Flagship 80769 Seven Heaven ,B-54 Lawrence Road Industrial Area Near Lawrence Road,['Delhi'],['3.5'],['102'],₹1353, AC  TV 
+269,OYO Flagship Mannt Stay,1/24 gali no. 1 Lalita park Near behaind gurudwara Laxmi nagar 110092 Gurudwara Laxmi nagar,['Delhi'],['4.0'],['82'],₹2082, Free Wifi  Geyser  Power backup  
+270,OYO Flagship Star Guest House,Shahdara,['Delhi'],[],[],₹1233, Free Wifi  Geyser  Power backup  
+271,Hotel City Plaza,Near Laxmi Nagar,['Delhi'],['3.5'],['30'],₹1476, AC  TV 
+272,Flagship Rs Hotels Near M2k Cinemas Rohini,Shiva Market,['Delhi'],['3.6'],['174'],₹1607, Private entrance  Reception  Free Wifi  
+273,Capital O Hotel Sunberry,New Delhi,"['Delhi', 'Delhi']",['3.3'],['202'],₹1906, Parking facility  Reception  Free Wifi  
+274,OYO Flagship 86216  Hotel Mini Stays,Central Delhi,"['Delhi', 'Delhi']",['3.9'],['129'],₹2204, Reception  Free Wifi  Caretaker  
+275,Capital O Grand Central Near Gurudwara Shri Bangla Sahib,Near Karol Bagh metro station,[],['3.5'],['102'],₹1840, Parking facility  Reception  Free Wifi  
+276,Super OYO Collection O  980 Hotel Ramhan,"Near Patel Nagar Metro Station, East Patel Nagar",['Delhi'],['4.3'],['144'],₹2340, Free Wifi  Geyser  Power backup  
+277,OYO 811874 Hotel Maharaja,Address- Shop No : 30-32-34 Old Market Main Bus Stand Timarpur Delhi 110054.  Opposite DTC Bus Stand,"['Delhi', 'Delhi']",['2.2'],['27'],₹1840, Reception  Designated smoking area  Free Wifi  
+278,OYO Flagship Dev Palace  Hotel,"641-b/1,loni road shahdara delhi",[],['4.0'],['1'],₹1597, Free Wifi  Geyser  Power backup  
+279,OYO Flagship Hotel Thanks,B 53 GANESH NAGAR 2 EXT. SHAKARPUR DELHI,['Delhi'],['3.8'],['7'],₹2204, Doctor on call  Ticket tour assistance  Reception  
+280,OYO Flagship 80919 Hotel Vinayaka Inn Near Gurudwara Shri Bangla Sahib,Pahar ganj,['Delhi'],['4.2'],['105'],₹2204, Free Wifi  Geyser  Power backup  
+281,OYO Flagship Ram Bnb,Faiz Road Karol Bagh New Delhi,"['Delhi', 'Delhi']",['3.6'],['140'],₹1718, Elevator  Electric Kettle  Reception  
+282,Townhouse 537 Regent Intercontinental,"Near Karol Bagh, Krishnanagar",['Delhi'],['2.7'],['85'],₹3629, AC  TV  Seating area 
+283,Collection O 83831 Golden Key Near TDI Mall,Near Rajdhani College,['Delhi'],['3.1'],['372'],₹2209, Parking facility  Free Wifi  Power backup  
+284,OYO  Flagship Ls Banquet & Rooms,"Near Harsh Vihar, Shakti Vihar",['Delhi'],['3.0'],['3'],₹1597, AC  TV 
+285,Flagship Hansa Residency Near Akshardham,Laxmi Nagar,['Delhi'],['3.5'],['124'],₹1718, Parking facility  Free Wifi  Power backup  
+286,Townhouse 619 Hotel Church House Rohini Near Rohini Sector 18 Metro Station,"Above Axis Bank, Near JIMS, Sector 15, Rohini",['Delhi'],['3.9'],['325'],₹2074, Free Wifi  Geyser  Power backup  
+287,OYO Flagship Diamond Inn,R Block Navin Shahdara,['Delhi'],['3.3'],['13'],₹2325, AC  TV 
+288,OYO Flagship 35359 Hotel Victoria Dx,Near New Delhi Railway Station,"['Delhi', 'Delhi']",['3.5'],['6'],₹2204, Free Wifi  Geyser  Power backup  
+289,OYO Country Residency,Laxmi Nagar,['Delhi'],['3.3'],['253'],₹1835, AC  TV 
+290,OYO Flagship 80818 Hotel Metro Inn Near Gurudwara Shri Bangla Sahib,Aram Bagh Paharganj Delhi,"['Delhi', 'Delhi']",['3.8'],['50'],₹2204, AC  TV  AC  
+291,Flagship Ocean Blue Residency Near V3S Mall, A-14 Pridarshni Vihar Laxminagar,['Delhi'],['3.5'],['81'],₹2077, AC  TV 
+292,OYO Flagship DP Dx,"Near Rk ashram marg , Pahar Ganj",['Delhi'],['1.8'],['4'],₹1718, Doctor on call  Reception  Free Wifi  
+293,OYO Flagship 81741 Hotel Naseeb Near Jama Masjid,Paharganj,['Delhi'],['4.2'],['73'],₹2204,
+294,OYO Flagship 66745 Le Orange,"8880-81, Gali Number 2, Multani Dhanda, Paharganj, New Delhi - 110055","['Delhi', 'Delhi']",['3.5'],['84'],₹2204, Reception  Free Wifi  Power backup  
+295,Flagship Leisurrestay,I.P.Extension,['Delhi'],['3.5'],['9'],₹2325, AC  TV 
+296,OYO Flagship Golden Petal,Jheel Khurenja Geeta Colony,['Delhi'],['3.5'],['16'],₹2446, Elevator  Free Wifi  Geyser  
+297,OYO Happy Inn,Near Shahdara Metro Station,['Delhi'],['3.5'],['52'],₹2325, Private entrance  Parking facility  Reception  
+298,Collection O Hotel Swisston Palace,W.E.A Ajmal khan Road  Karol Bagh Near Metro Pillar 99,['Delhi'],['2.9'],['19'],₹2446, Free Wifi  Geyser  Power backup  
+299,OYO Flagship Hotel Vista Inn,WEA Karol Bagh,['Delhi'],['3.7'],['4'],₹2446, Elevator  Free Wifi  Geyser  
+300,Flagship The Mumbai Inn Near Chhatrapati Shivaji International Airport,The Mumbai Inn 90 Feet Road Next To Peninsula Near Tilak Nagar Gate Sakinaka Mumbai,"['Mumbai', 'Mumbai', 'Mumbai']",['3.4'],['418'],₹1399, Hair Dryer  Reception  Security  
+301,OYO Flagship 812940 Hotel Nk Grand,Asalpha,['Mumbai'],['3.4'],['63'],₹1359, Free Wifi  Geyser  Power backup  
+302,POP 81030D Hotel Crystal Park Jogeshwari Mumbai,"SV ROAD, NEAR JVLR JUNCTION, NEXT TO MARKAZ HOTEL, JOGESHWARI (W). MUMBAI -400012",[],['3.7'],['74'],₹1886, Free Wifi  Geyser  Power backup  
+303,OYO Flagship Hotel Kailash Park Near Chhatrapati Shivaji International Airport,"Near Sakinaka Metro station, Andheri East",['Mumbai'],['4.0'],['124'],₹1722, Free Wifi  Geyser  CCTV cameras  
+304,Townhouse OAK Hotel Shubhangan Near Juhu Beach,"Hotel Shubhangan-21st road,Khar West",[],['3.5'],['63'],₹2446, Reception  Ticket tour assistance  Caretaker  
+305,OYO Flagship 8544 Hotel Bentleys,"Near Sakinaka Metro Station, Andheri",['Mumbai'],['3.6'],['87'],₹1812, AC  TV 
+306,OYO SilverKey Hotel Manas Residency,Chembur Eastnull,['Mumbai'],['4.2'],['347'],₹2288, Reception  Free Wifi  Geyser  
+307,Capital O 80951 Hotel Vertigo Suite,India,['Mumbai'],['3.8'],['27'],₹2544, Doctor on call  Reception  Caretaker  
+308,OYO Hotel Blue Sapphire Residency Near Chhatrapati Shivaji International Airport,"Near The Crescent Business Park, Sakinaka",['Mumbai'],['3.9'],['1123'],₹2165, Reception  Free Wifi  Card payment  
+309,OYO Hotel Blue Sea Near Chhatrapati Shivaji International Airport,"On main street, Near Asalpha Metro Station, Ghatkopar",['Mumbai'],['3.2'],['1555'],₹1854, Free Wifi  Geyser  CCTV cameras  
+310,OYO Hotel Blue Ocean Near R City Mall,"kailash industrial complex, near kailash business park, vikhroli west",['Mumbai'],['4.2'],['324'],₹2195, Free Wifi  Geyser  CCTV cameras  
+311,Collection O Golden Tulipz Boutique,Kurla West,['Mumbai'],['3.7'],['683'],₹2593, Reception  Free Wifi  Refrigerator  
+312,Collection O 84249 Hotel Ulife,Andheri(e),['Mumbai'],['3.9'],['826'],₹1831, Reception  Free Wifi  Caretaker  
+313,OYO Blue Pearl Residency Near Chhatrapati Shivaji International Airport,"On main street, Near Asalpha Metro Station, Ghatkopar",['Mumbai'],['3.5'],['696'],₹1956, Free Wifi  Card payment  Microwave  
+314,OYO Hotel Royal Grand Near Chhatrapati Shivaji International Airport,"Near Sakinaka Metro Station, Andheri East",['Mumbai'],['3.6'],['180'],₹1961, Free Wifi  Geyser  CCTV cameras  
+315,OYO Delight Inn,Maharashtra India,['Mumbai'],['3.3'],['554'],₹1864, Reception  Free Wifi  Caretaker  
+316,OYO Hotel Blue Inn Residence Near R City Mall,"Kailash Industrial Complex, near Kailash Business Park, Vikhroli West Mumbai",['Mumbai'],['3.2'],['602'],₹1671, Free Wifi  Seating area  AC  
+317,OYO Flagship 64671 Royal Aqua,"On main street, Near Yamaha Showroom, Andheri East",['Mumbai'],['3.3'],['174'],₹1966, Free Wifi  Geyser  Power backup  
+318,OYO Mumbai Paying Guest,101 / 1st floor above prafull hall opposite sita sindhu bhavan 8th road Santacruz east,['Mumbai'],['5.0'],['3'],₹2490, Free Wifi  Geyser  Power backup  
+319,OYO Flagship 79617 Hotel Ahlan International,Saki Vihar Road,['Mumbai'],['3.7'],['163'],₹1728, Reception  Caretaker  Security  
+320,OYO Royal Inn Near Versova Beach,"Near Jankidevi Public School Road, Varsova",['Mumbai'],['4.1'],['460'],₹2456, Parking facility  Free Wifi  Geyser  
+321,OYO Hotel Greenforest Near Airport Road Metro Station,"Near Axis Bank, Customs Colony",['Mumbai'],['3.6'],['502'],₹1971, Parking facility  Free Wifi  Card payment  
+322,OYO Rana Residency Near Western Express Highway Metro Station,"Tolany Naka, Sher-e-Punjab Colony",['Mumbai'],['3.3'],['523'],₹1961, Parking facility  Electric Kettle  Free Wifi  
+323,OYO Hotel Golden Nest Near Chhatrapati Shivaji International Airport,"Near Bajsons Industries, Andheri East",['Mumbai'],['3.3'],['896'],₹2701, Free Wifi  Geyser  CCTV cameras  
+324,Flagship Hotel Prince Palace Near Juhu Beach,"Near City Plaza, Santacruz West",['Mumbai'],['3.5'],['178'],₹2252, Elevator  Free Wifi  Geyser  
+325,OYO Flagship Hotel Nine Hills,andheri east,['Mumbai'],['4.1'],['9'],₹1864, Free Wifi  Geyser  Power backup  
+326,OYO Flagship Hotel Sai Residency,Jyoti appartment A - wing Sher -E-Punjab,['Mumbai'],['4.0'],['3'],₹1876, Free Wifi  Geyser  Power backup  
+327,Super OYO Hotel Divine Residency Near Phoenix Marketcity,"Near Chirag Nagar Police Station, LBS Marg",['Mumbai'],['5.0'],['515'],₹3690, Parking facility  Elevator  Free Wifi  
+328,OYO Flagship Hotel Accor Inn Plus,near Ganesh Mandir. Andheri East. Mumbai.,"['Mumbai', 'Mumbai']",['3.4'],['16'],₹1961, Free Wifi  Geyser  Power backup  
+329,OYO Flagship 81022 Hotel Bhau Residency,Shop no 3 Andheri Ghatkoper link Road  Opp Disilva Baug beside Hari Masjid Andheri east,['Mumbai'],['3.7'],['42'],₹1961, Elevator  Free Wifi  Geyser  
+330,Capital O 6581 HOTEL PARK RESIDENCY,Mumbai,"['Mumbai', 'Mumbai']",['2.9'],['124'],₹2354, Hair Dryer  Parking facility  Public washroom  
+331,Capital O 6202 Ashir Inn,"Opp. Seven Hills Hospital, Andheri East",['Mumbai'],['2.7'],['43'],₹2082, Free Wifi  Geyser  Garden/Backyard  
+332,OYO Flagship Hotel Nithyanand ,Sakinaka,['Mumbai'],['0.0'],['0'],₹2155, Free Wifi  Geyser  Power backup  
+333,Collection O 28342 Hotel Grand Corp Inn,India Mumbai MaharashtraIndia400013,"['Mumbai', 'Mumbai']",['3.7'],['14'],₹2543, Parking facility  Reception  Ticket tour assistance  
+334,OYO Flagship Hotel Kishan,Pant Nagar,['Mumbai'],['4.3'],['9'],₹2446, Free Wifi  Geyser  Power backup  
+335,Super OYO Malali Residency Near Versova Beach,Opposite To Mc Donald's,['Mumbai'],['4.5'],['249'],₹2932, Reception  Geyser  Caretaker  
+336,OYO Flagship Hotel Prime Suite,Goregaon West,['Mumbai'],[],[],₹2446, Free Wifi  Geyser  Power backup  
+337,OYO Flagship Sunrise Suites,Mumbai- ,"['Mumbai', 'Mumbai']",['3.8'],['50'],₹3054, AC  TV 
+338,OYO Townhouse 808 Royal Palms Shared Serviced Apartment,Goregaon East,['Mumbai'],['3.4'],['282'],₹3231, Reception  Power backup  24/7 check-in  
+339,OYO Townhouse 799 Royal Palms Hotel - Lily Collection,"Near Aarey Colony, Goregaon",[],['3.3'],['345'],₹3233, Parking facility  Free Wifi  Power backup  
+340,OYO Townhouse 781 Royal Palms Hotel,"On main street, Near Aarey Colony, Goregaon East",['Mumbai'],['3.4'],['511'],₹3210, Private entrance  Parking facility  Reception  
+341,Townhouse 809 Royal Palms Hotel - Rose Collection,"Near Aarey Colony, Goregaon",['Mumbai'],['3.7'],['505'],₹3796, Parking facility  Reception  Free Wifi  
+342,OYO Flagship Hotel King Residency ,Near Kurla Station West Opposite Bharat Talkies,['Mumbai'],['4.3'],['18'],₹2252, Free Wifi  Geyser  Power backup  
+343,OYO Hotel Blue Executive Near Chhatrapati Shivaji International Airport,"On main street, Near Saki Vihar complex, Sakinaka,Mumbai",['Mumbai'],['4.1'],['1484'],₹1869, AC  TV  Queen Sized Bed 
+344,OYO 75954 Neelkamal,"Near BKC, Umarshi Bappa Chowk, Chembur ",['Mumbai'],['4.3'],['451'],₹2907, Reception  Free Wifi  Caretaker  
+345,OYO Flagship 81149 Hotel Chembur Residency,chembur Mumbai,"['Mumbai', 'Mumbai']",['3.8'],['115'],₹2020, Free Wifi  Geyser  Power backup  
+346,Collection O Hotel Kiwi International Near Chhatrapati Shivaji International Airport,Andheri East,['Mumbai'],['3.9'],['208'],₹2446, Elevator  Free Wifi  Geyser  
+347,OYO Druv's Taj Palace Near Chhatrapati Shivaji International Airport,"Near Asalpha Metro Station, Dhumai Estate",['Mumbai'],['3.5'],['526'],₹2249, Free Wifi  CCTV cameras  AC  
+348,OYO Anjali Hotel Mumbai,"Near Kanti Nagar, Andheri East",['Mumbai'],['3.5'],['383'],₹1759, Reception  Free Wifi  Geyser  
+349,Townhouse 878 The Unicontinental 2,"9A Rajkutir, 3rd Road,next to Doolally Taproom,next to Khar railway station, Khar West",[],['5.0'],['226'],₹3425, Reception  Free Wifi  Caretaker  
+350,OYO Flagship 23259 Hotel Galaxy Inn,"Near Takshila Police Station, Andheri East",['Mumbai'],['3.6'],['29'],₹2179, Free Wifi  Power backup  Card payment  
+351,OYO Hotel S K Palace Near Carnival Cinemas Imax,"hop No 39 Shivaji Market, CG Rd, opposite Krishna Restaurant, Chembur Colony",[],['3.5'],['142'],₹1956, AC  Attached Washroom  TV  
+352,Townhouse 877 The Unicontinental,"9A Rajkutir, 3rd Road,next to Doolally Taproom,next to Khar railway station, Khar West",[],['4.5'],['259'],₹3446, Reception  Caretaker  Power backup  
+353,OYO Hotel Airport Metro Near Chhatrapati Shivaji International Airport,Andheri East,['Mumbai'],['3.5'],['682'],₹2953, Hair Dryer  Free Wifi  Garden/Backyard  
+354,OYO Flagship Hotel Capetown Near Versova Beach,Andheri Westnull,['Mumbai'],['4.0'],['24'],₹2126, Elevator  Reception  Free Wifi  
+355,Collection O 61246 Hotel De Meridian Near Versova Beach,Mumbai Suburbannull,"['Mumbai', 'Mumbai']",['2.8'],['73'],₹2174, Parking facility  Reception  Free Wifi  
+356,Collection O Collection O Hotel Jayshree Domestic Airport,Vile Parle East,['Mumbai'],['3.6'],['523'],₹3242, Private entrance  Reception  Free Wifi  
+357,Collection O 815331 Hotel Galaxy Shelter,Prabhadevi. Appasaheb Marathe Marg,['Mumbai'],['3.6'],['10'],₹3902, Elevator  Free Wifi  Geyser  
+358,Capital O Hotel Pearl Near US Embassy,"Near Wajan Kata Bus Stop, Indira Nagar",['Mumbai'],['3.3'],['160'],₹2896, Free Wifi  CCTV cameras  Card payment  
+359,OYO Townhouse 810 Royal Palms Hotel - Daisy Collection,Goregaon,['Mumbai'],['3.6'],['494'],₹3773, Parking facility  Free Wifi  Power backup  
+360,OYO Hotel Ak Palace Near Chhatrapati Shivaji International Airport,"On main street, Near Asalpha Metro Station, Sainaka",['Mumbai'],['3.1'],['254'],, Free Wifi 
+361,OYO Flagship Raj Hotel Near Juhu Beach,Santacruz,['Mumbai'],['3.1'],['191'],, Free Wifi  Geyser  Power backup  
